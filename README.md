@@ -2,7 +2,7 @@
 
 ### I believe in the promise of public libraries, public education, and public transportation.
 
-I am currently experimenting with **Vibe Coding** projects and building out **portable context files**. I’m documenting the process of both along the way as I explore how AI changes the way we build, think, and share.
+I am currently experimenting with **Vibe Coding** projects and thinking a lot about **portable context files**. I’m documenting the process of both along the way as I explore how AI changes the way we build, think, and share.
 
 ---
 
