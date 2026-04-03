@@ -15,7 +15,7 @@ I am currently experimenting with **Vibe Coding** projects and building out **po
 ---
 
 ### 🌐 Connect & Follow
-* **Blog:** [Crank.report](https://crank.report) – Where I post long-form thoughts and project updates.
+* **Blog:** [Crank.report](https://crank.report) – The place I share links and in-progress thinking.
 * **LinkedIn:** [Marnie Webb](https://www.linkedin.com/in/marniewebb/)
 
 ---
