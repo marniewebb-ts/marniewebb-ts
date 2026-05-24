@@ -8,6 +8,7 @@ I am currently experimenting with **Vibe Coding** projects and thinking a lot ab
 
 ### 🛠 Current Projects
 
+* **[Readwise to PDF Archiver](https://github.com/marniewebb-ts/Readwise_PDFArchiver_Public):** A local-first automation to bridge Readwise and Obsidian by archiving source articles as permanent PDFs. Vibe coded with Gemini CLI.
 * **[CrankIt](https://github.com/marniewebb-ts/CrankIt):** A focused Micro.blog utility for intentional, 280-character posting. This is my primary laboratory for vibe coding and Swift development.
 * **[CrankReview](https://github.com/marniewebb-ts/CrankReview_Public):** Automated a review of my last seven days of blog posts to do a synthesis across them.
 * **[TurningPro](https://github.com/marniewebb-ts/TurningPro):** Advice for young people entering the workforce. It's the basics and then a little bit extra.
