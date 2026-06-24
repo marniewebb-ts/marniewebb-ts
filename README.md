@@ -18,8 +18,9 @@ I am currently experimenting with **Vibe Coding** projects and thinking a lot ab
 ---
 
 ### 🌐 Connect & Follow
+* **Work:** [TechSoup](https://about.techsoup.org/) - I am lucky to work with colleagues committed to supporting nonprofits around the world.
 * **Blog:** [Crank.report](https://crank.report) – The place I share links and in-progress thinking.
-* **LinkedIn:** [Marnie Webb](https://www.linkedin.com/in/marniewebb/)
+* **LinkedIn:** [Marnie Webb](https://www.linkedin.com/in/marniewebb/) 
 
 ---
 
